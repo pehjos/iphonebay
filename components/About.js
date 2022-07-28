@@ -11,10 +11,10 @@ return (
 <p> 
 As we draw nearer to September and thus the very
  likely launch of the new iPhone 14 lineup, the rumors 
- around Apple's next smartphone are gathering pace. We ve now got 
+ around Apple`&apos;`s next smartphone are gathering pace. We`&apos;`ve now got 
  a rather strong idea of what both the standard iPhone 14 models and the iPhone 14 
  Pro handsets will look like and their cameras and display specs. But one rumors 
- keeps surfacing and its an odd one 
+ keeps surfacing and it`&apos;`s an odd one 
 
 </p>
 </div>
