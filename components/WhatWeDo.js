@@ -75,10 +75,10 @@ function WhatWeDo() {
         </div>
         <SwipeableViews index={index} onChangeIndex={handleChangeIndex}>
           <div style={Object.assign({}, styles.slide, styles.slide1)}>   
-          <Post2/>
+          <Post/>
           </div>
           <div style={Object.assign({}, styles.slide, styles.slide2)}>
-      <Post1/>
+      <Post/>
            
           </div>
           <div style={Object.assign({}, styles.slide, styles.slide3)}>
